@@ -5,7 +5,6 @@
   <a href="https://www.facebook.com/ajayjaganhatkar.hatkar">Ilham Ramadhan</a>
 </p>
 <p align="center">
-<br>
 <a href="https://github.com/Ilhamxyz213"><img title="Ilhamxyz213" src="https://github-readme-stats.vercel.app/api?username=Ilhamxyz213&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/Ilhamxyz213"><img title="Ilhamxyz213" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhamxyz213&layout=compact&theme=nightowl"></a><br>
 <a href="https://github.com/Ilhamxyz213"><img title="Ilhamxyz213" src="https://komarev.com/ghpvc/?username=Ilhamxyz213&label=Views&color=blue&style=plastic"></a>
