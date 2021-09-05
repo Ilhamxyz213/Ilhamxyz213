@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/Ilhamxyz213/ilhamxd"><img src="https://github.com/Ilhamxyz213/ilhamxd/blob/main/images%20(2).jpeg" height='195' alt="Ilhamxyz213 profile">
 <br>
 <p align="center">
-  Dibuat Oleh <a href="https://www.facebook.com/ajayjaganhatkar.hatkar">Ilham Ganteng</a>
+  <a href="https://www.facebook.com/ajayjaganhatkar.hatkar">Ilham Ramadhan</a>
 </p>
 <p align="center">
 <br>
